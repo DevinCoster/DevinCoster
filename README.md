@@ -1,4 +1,4 @@
-# Hi there, I'm Devin Coster 👋
+# Hi there, I'm Devin
 
 ## 🚀 About Me
 
