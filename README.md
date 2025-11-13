@@ -79,12 +79,6 @@ I'm a Computer Science student at Marymount University with a minor in AI & Robo
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:costerdevin@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DevinCoster)
 
-## 📊 GitHub Stats
-
-![Devin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevinCoster&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevinCoster&layout=compact&theme=dark)
-
 ---
 
 *"Fear is the Mind-Killer"*
