@@ -7,18 +7,7 @@ I'm a Computer Science student at Marymount University with a minor in AI & Robo
 - **Education:** B.S. in Computer Science, Minor in AI & Robotics at Marymount University (2023-2027)
 - **Location:** Virginia
 - **Background:** Unique blend of technical expertise and hands-on manufacturing experience from Harford Technical High School
-- **Current Focus:** Full Stack Development, Systems programming, Machine learning, and Cloud infrastructure
-
-## Experience
-
-**IT Generalist Intern @ Allan Myers** (May 2025 – Aug 2025)
-- Diagnosed and resolved 50+ weekly hardware/software tickets across 6 business units, reducing downtime by 30%
-- Led company-wide device upgrade project replacing 200+ end-user systems across field offices
-- Deployed AWS jumpboxes and Office 365 admin tools, cutting login issues by 20%
-
-**Water Safety Instructor @ Rock Spring Swim Club** (May 2019 – Aug 2024)
-- Instructed 150+ students following Red Cross standards with 95% proficiency rate
-- Developed personalized lesson plans improving stroke efficiency by up to 40%
+- **Current Focus:** Full Stack Development, Systems programming, Low Level Programming, Cloud Infrastructure
 
 ## Featured Projects
 
