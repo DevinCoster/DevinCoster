@@ -22,14 +22,14 @@ I'm a Computer Science student at Marymount University with a minor in AI & Robo
 
 ## Featured Projects
 
-### [Multi-Thread Web Crawler](https://github.com/DevinCoster)
+### [Multi-Thread Web Crawler]
 **C++, libcurl, CMake, Multi-threading, Graph Algorithms**
 - Processed 1,000+ webpages in under 30 seconds with scalable concurrent design
 - Implemented mutex-based synchronization eliminating data race conditions
 - Integrated PageRank and shortest-path algorithms with 95% accuracy vs. benchmark datasets
 - Optimized HTTP throughput via connection pooling, boosting performance by 25%
 
-### [Movie Recommendation System](https://github.com/DevinCoster)
+### [Movie Recommendation System]
 **Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook**
 - Built content-based recommendation system handling 5,000+ movies using TF-IDF vectorization
 - Created interactive GUI with customtkinter, improving user interaction time by 2×
