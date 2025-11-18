@@ -1,15 +1,15 @@
-# Hi, I'm Devin Coster 👋
+# Hi, I'm Devin Coster
 
 I'm a Computer Science student at Marymount University with a minor in AI & Robotics, passionate about building efficient systems and solving complex problems through code. My background spans enterprise IT infrastructure, systems programming, and machine learning.
 
-## 🎓 About Me
+## About Me
 
 - **Education:** B.S. in Computer Science, Minor in AI & Robotics at Marymount University (2023-2027)
 - **Location:** Virginia
 - **Background:** Unique blend of technical expertise and hands-on manufacturing experience from Harford Technical High School
 - **Current Focus:** Full Stack Development, Systems programming, Machine learning, and Cloud infrastructure
 
-## 💼 Experience
+## Experience
 
 **IT Generalist Intern @ Allan Myers** (May 2025 – Aug 2025)
 - Diagnosed and resolved 50+ weekly hardware/software tickets across 6 business units, reducing downtime by 30%
@@ -20,7 +20,7 @@ I'm a Computer Science student at Marymount University with a minor in AI & Robo
 - Instructed 150+ students following Red Cross standards with 95% proficiency rate
 - Developed personalized lesson plans improving stroke efficiency by up to 40%
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Multi-Thread Web Crawler](https://github.com/DevinCoster)
 **C++, libcurl, CMake, Multi-threading, Graph Algorithms**
@@ -36,7 +36,7 @@ I'm a Computer Science student at Marymount University with a minor in AI & Robo
 - Achieved 92% accuracy on user-preference prediction via k-NN model tuning
 - Reduced preprocessing latency by 35% through optimized data handling
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -44,12 +44,11 @@ I'm a Computer Science student at Marymount University with a minor in AI & Robo
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Backend & Systems
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
@@ -66,6 +65,7 @@ I'm a Computer Science student at Marymount University with a minor in AI & Robo
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
